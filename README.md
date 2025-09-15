@@ -19,7 +19,7 @@ Here, we provide `R` codes to reproduce our simulation study and replicate our d
 
    This `R` file includes data generating codes and an outcome regression function that detects CDIF.
 
-* `simu_D1.R`, `simu_D2.R`, `simu_D2.R`
+* `simu_D1.R`, `simu_D2.R`, `simu_D3.R`
  
    These `R` file includes simulation codes under simulation designs 1, 2, and 3. For more information on designs and evaluation, see our paper: [(Preprint)](https://osf.io/preprints/psyarxiv/bue62_v2). 
 

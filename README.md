@@ -1,10 +1,10 @@
 # Rethinking Item Fairness Using Single World Intervention Graphs
 
-Youmi Suk$^1$ and Weicong Lyu$^2$
+Youmi Suk<sup>1</sup> and Weicong Lyu<sup>2</sup>
 
-1: Teachers College, Columbia University 
+<sup>1</sup>: Teachers College, Columbia University 
 
-2: University of Macau
+<sup>2</sup>: University of Macau
 
 ## Overview
 
